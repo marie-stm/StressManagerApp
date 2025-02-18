@@ -18,7 +18,7 @@
     "@expo/vector-icons": "^14.0.2",
     "@react-navigation/bottom-tabs": "^7.2.0",
     "@react-navigation/native": "^7.0.14",
-    "expo": "~52.0.35",
+    "expo": "^52.0.35",
     "expo-blur": "~14.0.3",
     "expo-constants": "~17.0.6",
     "expo-font": "~13.0.3",
@@ -50,5 +50,6 @@
     "react-test-renderer": "18.3.1",
     "typescript": "^5.3.3"
   },
-  "private": true
+  "private": true,
+  "packageManager": "yarn@3.8.6+sha512.a1c3a781c248a6d957eacd53f9b965663af89ef777982d7d9086af6de00cab8724cb75bade6b0cdfcaa04f63e20767fc435aade5489be976a5745d6ee03c7932"
 }
